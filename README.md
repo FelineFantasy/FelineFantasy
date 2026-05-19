@@ -1,53 +1,53 @@
-# 🐱 Привет, я Тимур (FelineFantasy)
+# 🐱 Hi, I'm Timur (FelineFantasy)
 
-## 🚀 Backend-разработчик на Python | Учусь на DevOps с Rust
+## 🚀 Backend Python Developer | Learning DevOps with Rust
 
-Пишу на Python, активно изучаю Rust. Люблю синтаксический сахар и чистый код.
-
----
-
-### 🛠️ Чем реально владею
-
-- **Python** — FastAPI, написание API, игровая логика, утилиты
-- **Rust** — базовые CLI-утилиты, консольные игры, микробиблиотеки
-- **Инструменты**: Git, базовый Linux
+I write Python code and actively study Rust. Love syntactic sugar and clean code.
 
 ---
 
-### ⚡ Мои реальные достижения
+### 🛠️ Tech Stack
 
-- 🐛 **Написал bug-report** в open-source проекте WinDDos — нашёл логическую ошибку с обнулением баланса
-- 🎮 **Создал Digital Cat** (700+ строк) — текстовый тамагочи с логгером и механиками сытости/здоровья
-- 🔒 **Нашёл уязвимость** на сайте цифратест.рф
-- 📦 Выпустил 3 небольших проекта на Rust (ask_input, guess_game, paw-calculator)
-- 🐍 Написал CatFactsAPI на FastAPI
+- **Python** - FastAPI, REST APIs, game logic, utilities
+- **Rust** - basic CLI tools, console games, micro-libraries
+- **Tools**: Git, basic Linux
 
 ---
 
-### 📌 Мои проекты (всё что есть)
+### ⚡ My achievements
 
-| Проект | Технологии | Что это |
-|--------|-----------|---------|
-| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Текстовый тамагочи, 700+ строк, логгер |
-| [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python, FastAPI | REST API с фактами о кошках |
-| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | Менеджер паролей (новый) |
-| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | Python, yt-dlp | Загрузчик видео |
-| [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Библиотека для ввода с клавиатуры |
-| [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Калькулятор с кошачьими операциями |
-| [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Угадай число |
+- 🐛 **Submitted a bug report** to the open-source project WinDDos - found a logical error with balance reset
+- 🎮 **Built Digital Cat** (700+ lines) - text-based tamagotchi with logger and hunger/health mechanics
+- 🔒 **Security research** - found and reported an issue on a Russian educational platform
+- 📦 Released 3 small Rust projects (ask_input, guess_game, paw-calculator)
+- 🐍 Built CatFactsAPI with FastAPI
 
 ---
 
-### 🌐 Где меня найти
+### 📌 My projects
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based tamagotchi, 700+ lines, logger |
+| [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python, FastAPI | REST API with random cat facts |
+| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
+| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | Python, yt-dlp | YouTube video downloader |
+| [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Keyboard input library |
+| [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator with cat-style operations |
+| [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Classic number guessing game |
+
+---
+
+### 🌐 Find me
 
 - **Telegram**: [@id00000052](https://t.me/id00000052)
-- **Discord**: `felinefantasy` — [добавить](https://discord.com/users/1483072444704100402)
+- **Discord**: `felinefantasy` - [add me](https://discord.com/users/1483072444704100402)
 - **GitHub**: [FelineFantasy](https://github.com/FelineFantasy)
 
 ---
 
-### 🧠 Сейчас в фокусе
+### 🧠 Currently focused on
 
-- Учусь в **Kiber One**
-- Перехожу с Python на Rust для DevOps
-- В основном мурлыкаю
+- Studying at **Kiber One**
+- Moving from Python to Rust for DevOps
+- Mostly purring 🐱
