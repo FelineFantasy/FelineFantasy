@@ -16,12 +16,13 @@ I write Python code and actively study Rust. Love syntactic sugar and clean code
 
 ### ⚡ My achievements
 
-- 🦀 **Published a crate on crates.io** — `ask_input` v0.2.0
-- 🐱 **Created my own programming language** — `PurrScript`
-- 🎮 **Built Digital Cat** (1100+ lines) — text-based tamagotchi with CI/CD and multi-platform builds
-- 🖥️ **Built Cat IDE** — my own Python IDE with dark theme
+- 🦀 **Published a crate on crates.io** - `ask_input` v0.2.0
+- 🐱 **Created my own programming language** - `PurrScript`
+- 🎮 **Built Digital Cat** (1100+ lines) - text-based tamagotchi with CI/CD and multi-platform builds
+- 🖥️ **Built Cat IDE** - my own Python IDE with dark theme
 - 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)
-- 🔒 **Security research** — reverse engineering, virus analysis
+- 🔒 **Security research** - reverse engineering, virus analysis
+- 🕵️ **Found and reported a security vulnerability** - authentication bypass on `цифратест.рф` (fixed)
 
 ---
 
