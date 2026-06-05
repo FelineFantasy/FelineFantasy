@@ -33,11 +33,11 @@ I write Python code and actively study Rust. Love syntactic sugar and clean code
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python, FastAPI | REST API with 350+ cat facts and 100+ cat breed |
 | [CatMemeAPI](https://github.com/FelineFantasy/CatMemeAPI) | Python, FastAPI | REST API with 1000+ cat memes |
 | [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
-| [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Python, Selenium | 
+| [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Python, Selenium | Counting commits on GitHub per year |
 | [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | Python, customtkinter | My own Python IDE with dark theme |
 | [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Python, pygame | Play piano using keyboard keys 1-7 |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
-| [Notes](https://github.com/FelineFantasy/Notes) | Python | CLI notes | Counts a GitHub user's commits for a specified year with Selenium |
+| [Notes](https://github.com/FelineFantasy/Notes) | Python | CLI notes |
 | [Translator](https://github.com/FelineFantasy/translator) | Python, deep-translator | CLI translator from Russian to English and vice versa |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI utility for retrieving PC data |
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python |  cute ASCII cat library |
