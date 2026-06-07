@@ -2,7 +2,7 @@
 
 ## 🚀 Backend Python Developer | Rust Ops Developer
 
-I write Python code and actively study Rust. Love syntactic sugar and clean code. 160+ commits in 3 months.
+I write Python code and actively study Rust. Love syntactic sugar and clean code. 180+ commits in 3 months.
 
 ---
 
