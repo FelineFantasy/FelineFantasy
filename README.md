@@ -26,26 +26,34 @@ I write Python code and actively study Rust. Love syntactic sugar and clean code
 
 ---
 
-### 📌 My projects
+### 🐍 Python Projects
+
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based tamagotchi, 1100+ lines, CI/CD |
-| [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python, FastAPI | REST API with 350+ cat facts and 100+ cat breed |
-| [CatMemeAPI](https://github.com/FelineFantasy/CatMemeAPI) | Python, FastAPI | REST API with 1000+ cat memes |
-| [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
-| [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Python, Selenium | Counting commits on GitHub per year |
-| [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | Python, customtkinter | My own Python IDE with dark theme |
-| [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Python, pygame | Play piano using keyboard keys 1-7 |
-| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
-| [Notes](https://github.com/FelineFantasy/Notes) | Python | CLI notes |
-| [Translator](https://github.com/FelineFantasy/translator) | Python, deep-translator | CLI translator from Russian to English and vice versa |
-| [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI utility for retrieving PC data |
-| [Catsay](https://github.com/FelineFantasy/catsay) | Python |  cute ASCII cat library |
-| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | Python, yt-dlp | YouTube video downloader |
-| [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Keyboard input library (crates.io) |
-| [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator with cat-style operations |
-| [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Classic number guessing game |
+| [PurrScript](https://github.com) | Python | My own programming language |
+| [Cat IDE](https://github.com) | Python (CustomTkinter) | Custom Python IDE with a built-in dark theme |
+| [CatFactsAPI](https://github.com) | Python (FastAPI) | REST API featuring 350+ cat facts and 100+ cat breeds |
+| [CatMemeAPI](https://github.com) | Python (FastAPI) | REST API serving 1000+ cat memes |
+| [Digital Cat](https://github.com) | Python | Text-based Tamagotchi game (1,100+ lines of code, CI/CD pipeline) |
+| [GitHub-Commit-Counter](https://github.com) | Python (Selenium) | Automation tool for counting annual GitHub commits |
+| [Password-Manager](https://github.com) | Python | CLI password manager with secure encryption |
+| [Youtube_downloader](https://github.com) | Python (yt-dlp) | YouTube video downloader utility |
+| [KeyPaw Piano](https://github.com) | Python (Pygame) | Interactive piano playable via keyboard keys 1-7 |
+| [CatSysInfo](https://github.com) | Python | CLI system utility for retrieving PC hardware data |
+| [Catsay](https://github.com) | Python | Cute ASCII cat art library |
+| [Translator](https://github.com) | Python (deep-translator) | CLI bidirectional Russian-English translator |
+| [Notes](https://github.com) | Python | Minimalist CLI notes application |
+| [guess-number](https://github.com) | Python | Binary search game where the computer guesses your number |
+
+### 🦀 Rust Projects
+
+
+| Project | Technologies | Description |
+|---------|--------------|-------------|
+| [ask_input](https://github.com) | Rust | Keyboard input library published on crates.io |
+| [paw-calculator](https://github.com) | Rust | Calculator featuring custom cat-style operations |
+| [guess_game](https://github.com) | Rust | Classic number guessing game built with Rust |
 
 ---
 
