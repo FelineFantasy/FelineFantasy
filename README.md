@@ -1,70 +1,79 @@
 # 🐱 Hi, I'm Timur (FelineFantasy)
 
+[![GitHub followers](https://img.shields.io/github/followers/FelineFantasy?style=social)](https://github.com/FelineFantasy)
+[![Telegram](https://img.shields.io/badge/Telegram-@id00000052-blue?logo=telegram)](https://t.me/id00000052)
+[![Discord](https://img.shields.io/badge/Discord-felinefantasy-5865F2?logo=discord)](https://discord.com/users/1483072444704100402)
+
 ## 🚀 Backend Python Developer | Rust Ops Developer
 
-I write Python code and actively study Rust. Love syntactic sugar and clean code. 190+ commits in 3+ months.
+I write clean Python code and actively study Rust. Love syntactic sugar, elegant solutions, and open-source contributions.  
+📦 **190+ commits in the last 3 months** · 🐱 Always purring
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- **Python** - FastAPI, REST APIs, game logic, GUI (customtkinter), utilities
-- **Rust** - CLI tools, console games, micro-libraries (published on crates.io)
-- **Tools**: Git, GitHub Actions (CI/CD), Linux (WSL)
-
----
-
-### ⚡ My achievements
-
-- 🦀 **Published a crate on crates.io** - `ask_input` v0.2.0
-- 🐱 **Created my own programming language** - `PurrScript`
-- 🎮 **Built Digital Cat** (1100+ lines) - text-based tamagotchi with CI/CD and multi-platform builds
-- 🖥️ **Built Cat IDE** - my own Python IDE with dark theme
-- 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)
-- 🔒 **Security research** - reverse engineering, virus analysis
-- 🕵️ **Found and reported a security vulnerability** - authentication bypass on `цифратест.рф` (fixed)
+| Area | Technologies |
+|------|--------------|
+| **Python** | FastAPI, REST APIs, game logic, GUI (CustomTkinter), automation |
+| **Rust** | CLI tools, console games, crates.io libraries |
+| **Tools** | Git, GitHub Actions (CI/CD), Linux (WSL) |
 
 ---
 
-### 🐍 Python Projects
+## ⚡ Key Achievements
 
-| Project | Technologies | Description |
-|---------|--------------|-------------|
+- 🦀 **Published a crate on crates.io** – [`ask_input`](https://crates.io/crates/ask_input) v0.2.0  
+- 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)  
+- 🎮 **Built Digital Cat** – 1,100+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
+- 🖥️ **Built Cat IDE** – Python IDE with dark theme  
+- 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)  
+- 🔒 **Security research** – reverse engineering, virus analysis  
+- 🕵️ **Found and reported a security vulnerability** – authentication bypass on `цифратест.рф` (fixed)
+
+---
+
+## 🐍 Python Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
 | [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
-| [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | Python (CustomTkinter) | Custom Python IDE with a built-in dark theme |
-| [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python (FastAPI) | REST API featuring 350+ cat facts and 100+ cat breeds |
-| [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | Python (FastAPI) | REST API serving 1000+ cat memes |
-| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based Tamagotchi game (1,100+ lines of code, CI/CD pipeline) |
-| [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Python (Selenium) | Automation tool for counting annual GitHub commits |
-| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with secure encryption |
-| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | Python (yt-dlp) | YouTube video downloader utility |
-| [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Python (Pygame) | Interactive piano playable via keyboard keys 1-7 |
-| [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system utility for retrieving PC hardware data |
+| [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
+| [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | FastAPI | REST API with 350+ cat facts and 100+ cat breeds |
+| [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | FastAPI | REST API serving 1000+ cat memes |
+| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
+| [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Selenium | Count annual GitHub commits automatically |
+| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
+| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | yt-dlp | YouTube video downloader |
+| [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
+| [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
-| [Translator](https://github.com/FelineFantasy/translator) | Python (deep-translator) | CLI bidirectional Russian-English translator |
-| [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes application |
-| [guess-number](https://github.com/FelineFantasy/guess-number) | Python | Binary search game where the computer guesses your number |
-
-### 🦀 Rust Projects
-
-| Project | Technologies | Description |
-|---------|--------------|-------------|
-| [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Keyboard input library published on crates.io |
-| [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator featuring custom cat-style operations |
-| [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Classic number guessing game built with Rust |
+| [Translator](https://github.com/FelineFantasy/translator) | deep-translator | CLI Russian ↔ English translator |
+| [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
+| [guess-number](https://github.com/FelineFantasy/guess-number) | Python | Binary search game (computer guesses your number) |
 
 ---
 
-### 🌐 Find me
+## 🦀 Rust Projects
 
-- **Telegram**: [@id00000052](https://t.me/id00000052)
-- **Discord**: `felinefantasy` - [add me](https://discord.com/users/1483072444704100402)
+| Project | Tech | Description |
+|---------|------|-------------|
+| [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Keyboard input library – published on crates.io |
+| [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator with custom cat-style operations |
+| [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Classic number guessing game |
+
+---
+
+## 🌐 Find Me
+
+- **Telegram**: [@id00000052](https://t.me/id00000052)  
+- **Discord**: `felinefantasy` – [Add me](https://discord.com/users/1483072444704100402)  
 - **GitHub**: [FelineFantasy](https://github.com/FelineFantasy)
 
 ---
 
-### 🧠 Currently focused on
+## 🧠 Currently Focused On
 
-- Studying at **Kiber One**
-- Maintaining 6+ commits daily streak
+- Studying at **Kiber One**  
+- Maintaining **6+ commits daily**  
 - Mostly purring 🐱
