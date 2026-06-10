@@ -33,7 +33,7 @@ I write Python code and actively study Rust. Love syntactic sugar and clean code
 | [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
 | [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | Python (CustomTkinter) | Custom Python IDE with a built-in dark theme |
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | Python (FastAPI) | REST API featuring 350+ cat facts and 100+ cat breeds |
-| [CatMemeAPI](https://github.com/FelineFantasy/CatMemeAPI) | Python (FastAPI) | REST API serving 1000+ cat memes |
+| [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | Python (FastAPI) | REST API serving 1000+ cat memes |
 | [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based Tamagotchi game (1,100+ lines of code, CI/CD pipeline) |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Python (Selenium) | Automation tool for counting annual GitHub commits |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with secure encryption |
