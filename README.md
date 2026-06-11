@@ -50,7 +50,6 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
 | [Translator](https://github.com/FelineFantasy/translator) | deep-translator | CLI Russian ↔ English translator |
 | [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
-| [guess-number](https://github.com/FelineFantasy/guess-number) | Python | Binary search game (computer guesses your number) |
 
 ---
 
@@ -61,6 +60,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [ask_input](https://github.com/FelineFantasy/ask_input) | Rust | Keyboard input library – published on crates.io |
 | [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator with custom cat-style operations |
 | [guess_game](https://github.com/FelineFantasy/guess_game) | Rust | Classic number guessing game |
+| [guess-number](https://github.com/FelineFantasy/guess-number) | Rust | Binary search game (computer guesses your number) |
 
 ---
 
