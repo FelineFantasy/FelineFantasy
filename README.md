@@ -38,13 +38,13 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | Project | Tech | Description |
 |---------|------|-------------|
 | [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
-| [Cat IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
+| [Cat-IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | FastAPI | REST API with 350+ cat facts and 100+ cat breeds |
 | [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | FastAPI | REST API serving 1000+ cat memes |
-| [Digital Cat](https://github.com/FelineFantasy/Digital_Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
+| [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Selenium | Count annual GitHub commits automatically |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
-| [Youtube_downloader](https://github.com/FelineFantasy/Youtube_downloader) | yt-dlp | YouTube video downloader |
+| [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
 | [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
