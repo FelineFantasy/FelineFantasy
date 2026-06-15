@@ -45,7 +45,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Selenium | Count annual GitHub commits automatically |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
 | [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
-| [KeyPaw Piano](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
+| [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
 | [Translator](https://github.com/FelineFantasy/translator) | deep-translator | CLI Russian ↔ English translator |
