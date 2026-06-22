@@ -13,7 +13,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 ## 📊 GitHub Stats
 
-<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=FelineFantasy&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru"></p>
+<p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=FelineFantasy&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en"></p>
 
 ---
 
