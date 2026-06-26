@@ -32,7 +32,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 - 🦀 **Published a crate on crates.io** – [`ask_input`](https://crates.io/crates/ask_input) v0.2.0  
 - 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)  
 - 🎮 **Built Digital Cat** – 1,100+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
-- 🖥️ **Built Cat IDE** – Python IDE with dark theme  
+- 🖥️ **Built Cat IDE** – Python IDE with dark theme
 - 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)  
 - 🔒 **Security research** – reverse engineering, virus analysis  
 - 🕵️ **Found and reported a security vulnerability** – authentication bypass on `цифратест.рф` (fixed)
@@ -52,6 +52,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
 | [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
+| [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
 | [Translator](https://github.com/FelineFantasy/translator) | deep-translator | CLI Russian ↔ English translator |
