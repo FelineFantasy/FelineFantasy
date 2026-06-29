@@ -48,6 +48,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | FastAPI | REST API with 350+ cat facts and 100+ cat breeds |
 | [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | FastAPI | REST API serving 1000+ cat memes |
 | [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
+| [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Python | Target savegame modifier and crypto-exploit engine with zlib obfuscation |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Selenium | Count annual GitHub commits automatically |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
 | [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
