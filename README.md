@@ -55,8 +55,8 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
 | [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
-| [Catsay](https://github.com/FelineFantasy/catsay) | Python | Cute ASCII cat art library |
-| [Translator](https://github.com/FelineFantasy/translator) | deep-translator | CLI Russian ↔ English translator |
+| [Catsay](https://github.com/FelineFantasy/Catsay) | Python | Cute ASCII cat art library |
+| [Translator](https://github.com/FelineFantasy/Translator) | deep-translator | CLI Russian ↔ English translator |
 | [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
 
 ---
