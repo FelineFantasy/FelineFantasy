@@ -1,0 +1,42 @@
+name: Update commit count
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Get commit count from GraphQL
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          QUERY='{
+            "query": "query($username: String!) { user(login: $username) { contributionsCollection { totalCommitContributions } } }",
+            "variables": {"username": "FelineFantasy"}
+          }'
+          RESPONSE=$(curl -s -X POST https://api.github.com/graphql \
+            -H "Authorization: Bearer $GITHUB_TOKEN" \
+            -H "Content-Type: application/json" \
+            -d "$QUERY")
+
+          COMMITS=$(echo $RESPONSE | jq -r '.data.user.contributionsCollection.totalCommitContributions')
+
+          ROUNDED=$(( (COMMITS / 10) * 10 ))
+          echo "ROUNDED=$ROUNDED" >> $GITHUB_ENV
+
+      - name: Update README
+        run: |
+          sed -i "s/📦 \*\*[0-9]\+* commits in the last year/📦 **${ROUNDED}+ commits in the last year/" README.md
+
+      - name: Commit and push
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add README.md
+          git commit -m "docs: auto-update commit count to ${ROUNDED}+" || exit 0
+          git push
