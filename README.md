@@ -31,7 +31,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 - 🦀 **Published a crate on crates.io** – [`ask_input`](https://crates.io/crates/ask_input) v0.3.0
 - 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)  
-- 🎮 **Built Digital Cat** – 1,100+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
+- 🎮 **Built Digital Cat** – 1,300+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
 - 🖥️ **Built Cat IDE** – Python IDE with dark theme
 - 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)  
 - 🔒 **Security research** – reverse engineering, virus analysis  
