@@ -33,6 +33,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 - 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)  
 - 🎮 **Built Digital Cat** – 1,300+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
 - 🖥️ **Built Cat IDE** – Python IDE with dark theme
+- 💾 **Built CatOS** – 16-bit real-mode operating system written in NASM assembly
 - 🐛 **Submitted bug reports** to open-source projects (WinDDos, PyPI)  
 - 🔒 **Security research** – reverse engineering, virus analysis  
 - 🕵️ **Found and reported a security vulnerability** – authentication bypass on `цифратест.рф` (fixed)
