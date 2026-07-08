@@ -43,21 +43,21 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 | Project | Tech | Description |
 |---------|------|-------------|
-| [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
-| [Cat-IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | FastAPI | REST API with 350+ cat facts and 100+ cat breeds |
+| [Cat-IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
 | [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | FastAPI | REST API serving 1000+ cat memes |
+| [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
+| [Catsay](https://github.com/FelineFantasy/Catsay) | Python | Cute ASCII cat art library |
+| [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
 | [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Python | Target savegame modifier and crypto-exploit engine with zlib obfuscation |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | GraphQL | Count annual GitHub commits via GraphQL |
-| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
-| [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
-| [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
-| [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
-| [Catsay](https://github.com/FelineFantasy/Catsay) | Python | Cute ASCII cat art library |
-| [Translator](https://github.com/FelineFantasy/Translator) | deep-translator | CLI Russian ↔ English translator |
 | [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
+| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
+| [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
+| [Translator](https://github.com/FelineFantasy/Translator) | deep-translator | CLI Russian ↔ English translator |
+| [Youtube-Downloader](https://github.com/FelineFantasy/Youtube-Downloader) | yt-dlp | YouTube video downloader |
 
 ---
 
