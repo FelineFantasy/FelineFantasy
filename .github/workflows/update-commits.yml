@@ -31,8 +31,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/📦 \*\*[0-9]\+* commits in the last year/📦 **${ROUNDED}+ commits in the last year/" README.md
-
+          sed -i "s/📦 \*\*[0-9]\+ commits in the last year/📦 **${ROUNDED}+ commits in the last year/" README.md
       - name: Commit and push
         run: |
           git config user.name "GitHub Actions"
