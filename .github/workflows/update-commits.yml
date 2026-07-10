@@ -19,7 +19,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           QUERY='{
-            "query": "query(\$username: String!) { user(login: \$username) { contributionsCollection { totalCommitContributions } } }",
+            "query": "query($username: String!) { user(login: $username) { contributionsCollection { totalCommitContributions } } }",
             "variables": {"username": "FelineFantasy"}
           }'
           
@@ -41,7 +41,7 @@ jobs:
 
       - name: Update README
         run: |
-          sed -i "s/📦 \*\*[0-9]\+ commits in the last year/📦 **${ROUNDED}+ commits in the last year/" README.md
+          sed -i "s/📦 \*\*[0-9]\+ commits in the last year/📦 **${{ env.ROUNDED }}+ commits in the last year/" README.md
 
       - name: Commit and push
         run: |
