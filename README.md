@@ -30,7 +30,8 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 ## ⚡ Key Achievements
 
 - 🦀 **Published a crate on crates.io** – [`ask_input`](https://crates.io/crates/ask_input) v0.3.0
-- 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)  
+- 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)
+- 📐 **Created my own coding standard** – [CSG (Code Style Guide)](https://github.com/FelineFantasy/CSG)  
 - 🎮 **Built Digital Cat** – 1,300+ lines, text-based tamagotchi with CI/CD and multi-platform builds  
 - 🖥️ **Built Cat IDE** – Python IDE with dark theme
 - 💾 **Built CatOS** – 16-bit real-mode operating system written in NASM assembly
