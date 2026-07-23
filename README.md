@@ -48,7 +48,6 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI) | FastAPI | REST API with 350+ cat facts and 100+ cat breeds |
 | [Cat-IDE](https://github.com/FelineFantasy/Cat-IDE) | CustomTkinter | Python IDE with a built-in dark theme |
 | [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | FastAPI | REST API serving 1000+ cat memes |
-| [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 | [Catsay](https://github.com/FelineFantasy/Catsay) | Python | Cute ASCII cat art library |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) | Python | Text-based Tamagotchi (1,100+ lines, CI/CD) |
@@ -71,6 +70,12 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Rust | Calculator with custom cat-style operations |
 | [guess-game](https://github.com/FelineFantasy/guess-game) | Rust | Classic number guessing game |
 | [guess-number](https://github.com/FelineFantasy/guess-number) | Rust | Binary search game (computer guesses your number) |
+
+## 🖥️ Assembly Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 
 ---
 
