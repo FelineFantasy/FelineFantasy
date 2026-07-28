@@ -87,6 +87,14 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 ---
 
+## 💖 Support
+
+If you like my projects and want to support my work, you can do it here:
+
+[![DonationAlerts](https://img.shields.io/badge/DonationAlerts-FelineFantasy-ff69b4?style=for-the-badge&logo=donationalerts&logoColor=white)](https://www.donationalerts.com/r/felinefantasy)
+
+---
+
 ## 🧠 Currently Focused On
 
 - Studying at **Kiber One**  
