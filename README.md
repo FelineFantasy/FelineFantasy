@@ -77,6 +77,12 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 |---------|------|-------------|
 | [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 
+## 🐚 Shell / Bash Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [CatGuard](https://github.com/FelineFantasy/CatGuard) | Bash | File access system that requires cat's love to read files |
+
 ---
 
 ## 🌐 Find Me
