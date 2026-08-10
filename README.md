@@ -15,6 +15,12 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 <p align="center"><img src="https://github-readme-stats-fast.vercel.app/api?username=FelineFantasy&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=en"></p>
 
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=FelineFantasy&show_icons=true&theme=radical" alt="GitHub Streak" />
+  </a>
+</p>
+
 ---
 
 ## 🛠️ Tech Stack
