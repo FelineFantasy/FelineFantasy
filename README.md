@@ -57,7 +57,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [Catsay](https://github.com/FelineFantasy/Catsay) | Python | Cute ASCII cat art library |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | Python | CLI system info utility |
 | [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) | Python | Text-based Tamagotchi (1,300+ lines, CI/CD) |
-| [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Python | Target savegame modifier and save encryption engine |
+| [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Python | Save editor for Digital-Cat with base64 encoding |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | GraphQL | Count annual GitHub commits via GraphQL |
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
 | [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
