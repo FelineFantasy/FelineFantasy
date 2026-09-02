@@ -84,6 +84,12 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [CatOS](https://github.com/FelineFantasy/CatOS) | NASM | 16-bit real-mode bootloader with `cli` + `hlt` |
 | [ideal-hello-world](https://github.com/FelineFantasy/ideal-hello-world) | NASM | Minimal and optimized Hello World in assembly |
 
+## ⚙️ C++ Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Cat-Shell](https://github.com/Cat-Shell/Cat-Shell) | C++ | Minimalist command-line shell with cat aesthetics |
+
 ## 🐚 Shell / Bash Projects
 
 | Project | Tech | Description |
