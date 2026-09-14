@@ -60,6 +60,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Python | Save editor for Digital-Cat with base64 encoding |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | GraphQL | Count annual GitHub commits via GraphQL |
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Pygame | Play piano with keys 1–7 |
+| [MeowCrunch](https://github.com) | Python | Text-based farm simulator with a 90-day harvest cycle |
 | [Notes](https://github.com/FelineFantasy/Notes) | Python | Minimalist CLI notes app |
 | [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | Python | CLI password manager with encryption |
 | [PurrScript](https://github.com/FelineFantasy/PurrScript) | Python | My own programming language |
