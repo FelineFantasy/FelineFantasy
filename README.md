@@ -35,6 +35,7 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 
 ## ⚡ Key Achievements
 
+- 🐧 **Built my own Linux distribution** – [Calico Linux](https://github.com/FelineFantasy/calico-linux): Fedora Live Spin с XFCE, кастомным брендингом и автосборкой ISO через GitHub Actions
 - 🦀 **Published a crate on crates.io** – [`ask_input`](https://crates.io/crates/ask_input) v0.3.0
 - 🐱 **Created my own programming language** – [PurrScript](https://github.com/FelineFantasy/PurrScript)
 - 📐 **Created my own coding standard** – [CSG (Code Style Guide)](https://github.com/FelineFantasy/CSG)  
