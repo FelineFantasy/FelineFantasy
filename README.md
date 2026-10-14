@@ -79,6 +79,12 @@ I write clean Python code and actively study Rust. Love syntactic sugar, elegant
 | [guess-game](https://github.com/FelineFantasy/guess-game) | Rust | Classic number guessing game |
 | [guess-number](https://github.com/FelineFantasy/guess-number) | Rust | Binary search game (computer guesses your number) |
 
+## 🐧 Linux / Distro Projects
+
+| Project | Tech | Description |
+|---------|------|-------------|
+| [Calico Linux](https://github.com/FelineFantasy/calico-linux) | Kickstart, livemedia-creator, GitHub Actions | Fedora Live Spin with XFCE, custom branding (os-release, motd, shell banner) and automated ISO build via CI |
+
 ## 🖥️ Assembly Projects
 
 | Project | Tech | Description |
