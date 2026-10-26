@@ -2,11 +2,16 @@ name: Update commit count
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    # Every Monday at 04:00 UTC — weekly is enough, daily only added noise
+    - cron: '0 4 * * 1'
   workflow_dispatch:
 
 permissions:
   contents: write
+
+concurrency:
+  group: update-commit-count
+  cancel-in-progress: true
 
 jobs:
   update:
@@ -14,43 +19,50 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Get commit count from GraphQL
+      - name: Count contributions
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
-          QUERY='{
-            "query": "query($username: String!) { user(login: $username) { contributionsCollection { totalCommitContributions } } }",
-            "variables": {"username": "FelineFantasy"}
-          }'
-          
-          RESPONSE=$(curl -s -X POST https://api.github.com/graphql \
-            -H "Authorization: Bearer $GITHUB_TOKEN" \
-            -H "Content-Type: application/json" \
-            -d "$QUERY")
+          set -euo pipefail
 
-          COMMITS=$(echo $RESPONSE | jq -r '.data.user.contributionsCollection.totalCommitContributions')
+          QUERY='query { user(login: "FelineFantasy") { contributionsCollection { totalCommitContributions } } }'
+          COMMITS=$(gh api graphql -f query="$QUERY" \
+            --jq '.data.user.contributionsCollection.totalCommitContributions')
 
-          if [ "$COMMITS" = "null" ] || [ -z "$COMMITS" ]; then
-            echo "Error: Failed to fetch commits from GitHub API"
-            echo "Response was: $RESPONSE"
+          if [ -z "$COMMITS" ] || [ "$COMMITS" = "null" ]; then
+            echo "Error: failed to fetch the commit count from the GitHub API" >&2
             exit 1
           fi
 
           ROUNDED=$(( (COMMITS / 10) * 10 ))
-          echo "ROUNDED=$ROUNDED" >> $GITHUB_ENV
+          echo "Commits: $COMMITS, shown as: $ROUNDED+"
+          echo "ROUNDED=$ROUNDED" >> "$GITHUB_ENV"
 
       - name: Update README
         run: |
-          sed -i "s/📦 \*\*[0-9]\++\? commits in the last year\*\*/📦 **${{ env.ROUNDED }}+ commits in the last year**/" README.md
+          set -euo pipefail
+
+          sed -i -E \
+            "s|<!-- commits:start -->.*<!-- commits:end -->|<!-- commits:start -->📦 **${ROUNDED}+ commits** in the last year<!-- commits:end -->|" \
+            README.md
+
+          grep -q "<!-- commits:start -->" README.md || {
+            echo "Error: commit markers not found in README.md" >&2
+            exit 1
+          }
 
       - name: Commit and push
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "actions@github.com"
+          set -euo pipefail
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add README.md
+
           if git diff --staged --quiet; then
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "docs: auto-update commit count to ${ROUNDED}+"
+
+          git commit -m "docs: update commit count to ${ROUNDED}+"
           git push
