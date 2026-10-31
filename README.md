@@ -89,7 +89,6 @@ The six projects above are the ones to look at first. Here is the rest.
 | [CatMemesAPI](https://github.com/FelineFantasy/CatMemesAPI) | REST API serving 1000+ cat memes |
 | [catsay](https://github.com/FelineFantasy/catsay) | ASCII cat library that says, warns, thinks and asks questions |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | CLI system info in a cute box — OS, uptime, RAM, disk |
-| [Digital-Cat-Exploits](https://github.com/FelineFantasy/Digital-Cat-Exploits) | Save editor and crypto playground for Digital-Cat |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Counts a year of commits through the GitHub GraphQL API |
 | [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Play piano with keys 1–7 |
 | [MeowCrunch](https://github.com/FelineFantasy/MeowCrunch) | Text-based farm simulator with a 90-day harvest cycle |
@@ -110,8 +109,6 @@ The six projects above are the ones to look at first. Here is the rest.
 
 | Project | Description |
 |:--|:--|
-| [Calico Linux](https://github.com/FelineFantasy/calico-linux) | Fedora XFCE spin with custom branding and CI ISO builds |
-| [CatOS](https://github.com/FelineFantasy/CatOS) | 16-bit real-mode bootloader written from scratch |
 | [ideal-hello-world](https://github.com/FelineFantasy/ideal-hello-world) | Hello World in assembly, optimised for speed and size |
 | [CatGuard](https://github.com/FelineFantasy/CatGuard) | File access system that requires the cat's love to read files |
 
@@ -119,7 +116,6 @@ The six projects above are the ones to look at first. Here is the rest.
 
 | Project | Description |
 |:--|:--|
-| [CSG](https://github.com/FelineFantasy/CSG) | My code style guide, with an English and a Russian edition |
 | [python-roadmap](https://github.com/FelineFantasy/python-roadmap) | Visual Python roadmap for beginners — 5 levels with practice |
 
 </details>
