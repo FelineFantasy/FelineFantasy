@@ -10,7 +10,7 @@ I build things that purr — from a 512-byte bootloader to a Fedora spin.
 [![crates.io](https://img.shields.io/badge/crates.io-ask__input-orange?logo=rust&logoColor=white)](https://crates.io/crates/ask_input)
 [![GitHub followers](https://img.shields.io/github/followers/FelineFantasy?style=flat&label=followers&color=333)](https://github.com/FelineFantasy)
 
-**Open to junior backend / internship roles.**
+**Open to junior backend / internship roles** — remote-friendly, UTC+5, ready for relocation.
 
 </div>
 
