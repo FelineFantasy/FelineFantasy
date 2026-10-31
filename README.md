@@ -30,8 +30,8 @@ I build things that purr — from a 512-byte bootloader to a Fedora spin.
 
 | Project | What it does | Stack |
 |:--|:--|:--|
-| **[Digital-Cat](https://github.com/FelineFantasy/Digital-Cat)** | Text-based tamagotchi: 6 stats, 100-day run, autosave, CI builds for Windows/Linux/macOS and its own landing page | `Python` |
 | **[CatFactsAPI](https://github.com/FelineFantasy/CatFactsAPI)** | Deployed REST API with 350+ cat facts, 100+ breeds and auto-generated Swagger docs | `FastAPI` |
+| **[Digital-Cat](https://github.com/FelineFantasy/Digital-Cat)** | Text-based tamagotchi: 6 stats, 100-day run, autosave, CI builds for Windows/Linux/macOS and its own landing page | `Python` |
 | **[ask_input](https://github.com/FelineFantasy/ask_input)** | Minimal Rust crate for dead-simple console input — published on crates.io | `Rust` |
 | **[Calico Linux](https://github.com/FelineFantasy/calico-linux)** | Fedora XFCE live spin, rebranded and built into a bootable ISO by GitHub Actions | `Kickstart` `CI` |
 | **[PurrScript](https://github.com/FelineFantasy/PurrScript)** | A programming language that transpiles cat commands into Python | `Python` |
