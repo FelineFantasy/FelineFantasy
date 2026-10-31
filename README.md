@@ -79,7 +79,7 @@ I build things that purr — from a 512-byte bootloader to a Fedora spin.
 
 <br>
 
-The six projects above are the ones to look at first. Here is the rest.
+The six projects above are the ones to look at first. Here are a few more worth a click — the rest live in my [repositories tab](https://github.com/FelineFantasy?tab=repositories).
 
 **Python**
 
@@ -90,12 +90,6 @@ The six projects above are the ones to look at first. Here is the rest.
 | [catsay](https://github.com/FelineFantasy/catsay) | ASCII cat library that says, warns, thinks and asks questions |
 | [CatSysInfo](https://github.com/FelineFantasy/CatSysInfo) | CLI system info in a cute box — OS, uptime, RAM, disk |
 | [GitHub-Commit-Counter](https://github.com/FelineFantasy/GitHub-Commit-Counter) | Counts a year of commits through the GitHub GraphQL API |
-| [KeyPaw](https://github.com/FelineFantasy/KeyPaw) | Play piano with keys 1–7 |
-| [MeowCrunch](https://github.com/FelineFantasy/MeowCrunch) | Text-based farm simulator with a 90-day harvest cycle |
-| [Notes](https://github.com/FelineFantasy/Notes) | Minimalist CLI notes app |
-| [Password-Manager](https://github.com/FelineFantasy/Password-Manager) | CLI password manager with encryption and a generator |
-| [translator](https://github.com/FelineFantasy/translator) | CLI Russian ↔ English translator built on deep-translator |
-| [Youtube-downloader](https://github.com/FelineFantasy/Youtube-downloader) | CLI YouTube downloader wrapping yt-dlp |
 
 **Rust**
 
@@ -103,13 +97,11 @@ The six projects above are the ones to look at first. Here is the rest.
 |:--|:--|
 | [paw-calculator](https://github.com/FelineFantasy/paw-calculator) | Calculator with regular and cat-style operations |
 | [guess-game](https://github.com/FelineFantasy/guess-game) | Classic guess-the-number game |
-| [guess-number](https://github.com/FelineFantasy/guess-number) | The computer guesses your number via binary search |
 
 **Linux / Assembly / Shell**
 
 | Project | Description |
 |:--|:--|
-| [ideal-hello-world](https://github.com/FelineFantasy/ideal-hello-world) | Hello World in assembly, optimised for speed and size |
 | [CatGuard](https://github.com/FelineFantasy/CatGuard) | File access system that requires the cat's love to read files |
 
 **Docs**
