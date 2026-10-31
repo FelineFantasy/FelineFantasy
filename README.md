@@ -2,13 +2,15 @@
 
 # 🐱 FelineFantasy
 
-**Python developer** · FastAPI, CLI tools, and Rust on the side
+**Backend developer (Python/FastAPI)** · Rust and low-level as a hobby
 I build things that purr — from a 512-byte bootloader to a Fedora spin.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@id00000052-26A5E4?logo=telegram&logoColor=white)](https://t.me/id00000052)
 [![Discord](https://img.shields.io/badge/Discord-felinefantasy-5865F2?logo=discord&logoColor=white)](https://discord.com/users/1483072444704100402)
 [![crates.io](https://img.shields.io/badge/crates.io-ask__input-orange?logo=rust&logoColor=white)](https://crates.io/crates/ask_input)
 [![GitHub followers](https://img.shields.io/github/followers/FelineFantasy?style=flat&label=followers&color=333)](https://github.com/FelineFantasy)
+
+**Open to junior backend / internship roles.**
 
 </div>
 
