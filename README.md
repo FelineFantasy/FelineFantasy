@@ -123,13 +123,3 @@ The six projects above are the ones to look at first. Here are a few more worth 
 - **GitHub** — [@FelineFantasy](https://github.com/FelineFantasy)
 
 <sub>If my work saves you time, you can [buy the cat a treat](https://www.donationalerts.com/r/felinefantasy) 🐾</sub>
-
----
-
-## 🇷🇺 По-русски
-
-Привет! Я Тимур — пишу бэкенд на Python (FastAPI, CLI-утилиты), учу Rust и иногда спускаюсь на уровень ниже: от API до бутлоадера на ассемблере. Учусь в **Kiber One** и иду к позиции бэкенд-разработчика.
-
-Почти всё, что я делаю, — про котов: собственный язык [PurrScript](https://github.com/FelineFantasy/PurrScript), дистрибутив [Calico Linux](https://github.com/FelineFantasy/calico-linux), игра [Digital-Cat](https://github.com/FelineFantasy/Digital-Cat) и ещё два десятка проектов.
-
-Открыт к общению и коллаборациям: [Telegram](https://t.me/id00000052) · [Discord](https://discord.com/users/1483072444704100402)
