@@ -62,7 +62,7 @@ I build things that purr — from a 512-byte bootloader to a Fedora spin.
 </p>
 
 <p align="center">
-  <!-- commits:start -->📦 **1110+ commits** in the last year<!-- commits:end --> · 🐱 still purring
+  <!-- commits:start -->📦 **1160+ commits** in the last year<!-- commits:end --> · 🐱 still purring
 </p>
 
 ---
